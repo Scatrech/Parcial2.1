@@ -1,0 +1,12 @@
+▪ ¿Qué es GIT?
+GIT es un sistema de control de versiones de código fuente, que permite a los desarrolladores trabajar en equipo de manera eficiente, manteniendo un registro de todos los cambios realizados en el código y permitiendo una fácil colaboración y seguimiento de versiones.
+▪ ¿Qué es un pull request?
+Un pull request es una solicitud que un desarrollador hace para fusionar una rama de código que ha trabajado en su repositorio local con una rama de código principal en el repositorio remoto. Los pull requests son comunes en la gestión de proyectos de código abierto y permiten que varios desarrolladores contribuyan al mismo proyecto de manera organizada.
+▪ ¿Qué es un commit?
+Un commit es una operación en GIT que guarda los cambios realizados en un repositorio local en el historial de cambios del repositorio. Cada commit se etiqueta con un mensaje que describe los cambios realizados, lo que hace que sea más fácil para los desarrolladores rastrear los cambios y colaborar en el desarrollo de un proyecto.
+▪ ¿GIT y GitHub es lo mismo? Explique
+No, GIT y GitHub no son lo mismo, aunque están estrechamente relacionados. GIT es un sistema de control de versiones de código fuente, mientras que GitHub es una plataforma de alojamiento de código en línea que permite a los desarrolladores colaborar en proyectos utilizando GIT. GitHub proporciona una interfaz gráfica de usuario y herramientas adicionales para colaborar en proyectos GIT, lo que lo hace muy popular entre los desarrolladores.
+▪ ¿Qué es scrum?
+Scrum es un marco de trabajo para desarrollo ágil de software que se ha expandido a otras industrias. Es un proceso en el que se aplican de manera regular un conjunto de buenas prácticas para trabajar colaborativamente
+▪ ¿Para qué sirve una metodología ágil de desarrollo?
+Una metodología ágil de desarrollo se utiliza para gestionar y completar proyectos de manera eficiente y efectiva.
